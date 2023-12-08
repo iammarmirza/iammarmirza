@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ammar Mirza</h1>
-<p align="left"> <a href="https://twitter.com/iammarmirza" target="blank"><img src="https://img.shields.io/twitter/follow/iammarmirza?logo=twitter&style=for-the-badge" alt="iammarmirza" /></a> </p>
 
 - 💬 Ask me about **Tech, Coffee, Video-Games and Football**
 
-- 📝 I regularly write articles on [https://ammarmirza.hashnode.dev/](https://ammarmirza.hashnode.dev/)
+- 📝 Sometimes I write articles on [https://ammarmirza.hashnode.dev/](https://ammarmirza.hashnode.dev/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 📫 Reach out to me at **itsammarmirza@protonmail.com**
 
-- 📫 How to reach me **itsammarmirza@protonmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
