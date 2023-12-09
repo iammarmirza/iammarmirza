@@ -12,10 +12,8 @@
 <p align="left">
 <a href="https://twitter.com/iammarmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iammarmirza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iammarmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iammarmirza" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22768062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22768062" height="30" width="40" /></a>
-<a href="https://codesandbox.com/iammarmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iammarmirza" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ammarmirza" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="30" width="30" /></a>
 <a href="https://instagram.com/iammarmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammarmirza" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ammarmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ammarmirza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
