@@ -4,9 +4,6 @@
 
 - 📝 Sometimes I write articles on [https://ammarmirza.hashnode.dev/](https://ammarmirza.hashnode.dev/)
 
-- 📫 Reach out to me at **itsammarmirza@protonmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
