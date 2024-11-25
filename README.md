@@ -23,6 +23,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/> </a>
-<a href="https://tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" alt="tanstack" width="40" height="40"/> </a>
+<a href="https://tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" alt="tanstack" width="40" height="40"/> </a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" width="40" height="40"/> </a>
 </p>
